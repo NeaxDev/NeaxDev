@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**NeaxDev/NeaxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who has a keen interest in mobile and web application development.
 
-Here are some ideas to get you started:
+I have work experience using Node, Express and MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have an application published in the PlayStore that I developed in my spare time. https://play.google.com/store/apps/details?id=com.softwareofadrian.huskyapp
+
+I'm currently learning ReactJS.
+
+Skills:
+-Javascript
+-Node
+-MySQL
+-Android with Kotlin
+-Git (GitHub)
+
+
+
+
