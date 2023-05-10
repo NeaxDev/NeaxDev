@@ -15,6 +15,7 @@ Skills:
 - Node.js
 - SQL 
 - Git (GitHub) 
+- Android Studio
 
 
 
