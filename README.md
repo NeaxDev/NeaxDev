@@ -1,6 +1,7 @@
-### Hi 👋 😎
+### HOLA 👋 😎
 
-I'm a developer who has a keen interest in mobile and web application development.
+Soy un entusiasta desarrollador con experiencia en el desarrollo de aplicaciones. Me apasiona la resolución de problemas y la creación 
+de soluciones eficientes y efectivas. Mi enfoque se centra en aprender y aplicar las mejores prácticas de desarrollo para entregar productos de alta calidad.
 
 Skills: 
 - Javascript 
@@ -13,8 +14,8 @@ Skills:
 - C# ASP.NET CORE
 
 
-I have an application published in the PlayStore that I developed in my free time. 
-Link: https://play.google.com/store/apps/details?id=com.softwareofadrian.huskyapp
+
+MY FIRST APP ANDROID: https://play.google.com/store/apps/details?id=com.softwareofadrian.huskyapp
 
 
 
